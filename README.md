@@ -8,17 +8,6 @@ Las primeras 3 bandas definen el valor de la resistencia.
 La cuarta banda (siempre dorada) se debe ignorar, está ligeramente mas separada que las demas.
 Se mostrará por consola el valor en Ohms de cada resistencia analizada. 
 
-
----
-
-## Estructura del repositorio
-
-Clasificacion-Resistencias/
-│── input/ 
-│── clasificacion-resistencias.py         # Archivo
-├── requirements.txt                      # Librerías necesarias para ejecutar el proyecto
-└── README.md                             # Documentación del ejercicio
-
 ---
 
 ## Flujo del algoritmo
